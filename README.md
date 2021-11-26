@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jamiemetcalfe18
-- 👀 I’m interested in fitness, gaming, and self-improvement.
-- 🌱 I’m currently learning HTML, CSS, web design.
-- 💞️ I’m looking to collaborate on web design projects.
+- 👀 Interested in fitness, gaming, and dogs!
+- 🌱 Currently learning HTML, CSS, web design.
+- 💞️ Looking to collaborate on web design projects.
+- 🔧 Currently working on Cloud + essentials certification and web design projects.
 - 📫 How to reach me jamie.jet18@gmail.com
 
 <!---
