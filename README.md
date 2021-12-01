@@ -2,7 +2,8 @@
 - 👀 Interested in fitness, gaming, and dogs!
 - 🌱 Currently learning HTML, CSS, web design.
 - 💞️ Looking to collaborate on web design projects.
-- 🔧 Currently working on Cloud + essentials certification and web design projects.
+- 🔧 Currently working on The Odin Project and web design projects.
+- 📋 My Certs: Comptia Cloud Essentials +
 - 📫 How to reach me jamie.jet18@gmail.com
 
 <!---
