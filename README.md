@@ -1,9 +1,9 @@
 # About Me:
 - 👋 Hi, I’m @jamiemetcalfe18
 - 👀 Interested in fitness, gaming, and dogs!
-- 🌱 Currently learning HTML, CSS, web design.
+- 🌱 Currently learning HTML, CSS, and Javascript.
 - 💞️ Looking to collaborate on web design projects.
-- 🔧 Currently working on The Odin Project and web design projects.
+- 🔧 Currently working on The Odin Project, college, and web design projects.
 - 📋 My Certs: Comptia Cloud Essentials +
 
 # Languages:
@@ -17,4 +17,6 @@ soon
 <!---
 jamiemetcalfe18/jamiemetcalfe18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+linked-in link: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jmetcalfe18//)
 --->
