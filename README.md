@@ -1,18 +1,18 @@
 # About Me:
 - 👋 Hi, I’m @jamiemetcalfe18
 - 👀 Interested in fitness, gaming, and dogs!
-- 🌱 Currently learning HTML, CSS, and Javascript.
+- 🌱 Currently learning Javascript!
 - 💞️ Looking to collaborate on web design projects.
-- 🔧 Currently working on The Odin Project, college, and web design projects.
+- 🔧 Currently working on The Odin Project, college, and 30 days of javascript.
 - 📋 My Certs: Comptia Cloud Essentials +
 
 # Languages:
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>
 
 # Socials:
 
-soon  
+Soon!
 
 <!---
 jamiemetcalfe18/jamiemetcalfe18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
