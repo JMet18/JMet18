@@ -11,8 +11,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>
 
 # Socials:
-
-Soon!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/j_metcalfe18)
 
 <!---
 jamiemetcalfe18/jamiemetcalfe18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
