@@ -3,7 +3,7 @@
 - 👀 Interested in fitness, gaming, and dogs!
 - 🌱 Currently learning Javascript!
 - 💞️ Looking to collaborate on web design projects.
-- 🔧 Currently working on The Odin Project, college, and 30 days of javascript.
+- 🔧 Currently working on The Odin Project, college, and freecodecamp!
 - 📋 My Certs: Comptia Cloud Essentials +
 
 # Skills:
