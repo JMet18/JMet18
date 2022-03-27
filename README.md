@@ -4,7 +4,7 @@
 - 🌱 Currently learning Javascript!
 - 💞️ Looking to collaborate on web design projects.
 - 🔧 Currently working on The Odin Project, college, and freecodecamp!
-- 📋 My Certs: Comptia Cloud Essentials +
+- 📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Photoshop!
 
 # Skills:
 
