@@ -1,7 +1,7 @@
 # About Me:
 - 👋 Hi, I’m @jamiemetcalfe18
 - 👀 Interested in fitness, gaming, and dogs!
-- 🌱 Currently learning Javascript!
+- 🌱 Currently learning Javascript and jquery!
 - 💞️ Looking to collaborate on web design projects.
 - 🔧 Currently working on The Odin Project, college, and freecodecamp!
 - 📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Photoshop!
