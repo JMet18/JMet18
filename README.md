@@ -1,8 +1,8 @@
 # About Me:
 - 👋 Hi, I’m @jamiemetcalfe18 or Jamie!
-- 👀 Interested in coding, fitness, gaming, and dogs!
-- 🌱 Currently working on mastering Javascript!
-- 💞️ Looking to collaborate on web design projects. I am also seeking internships!
+- 🖥️ I love to learn new things and push my limits!
+- 🌱 Currently working on mastering Javascript so I can move onto Javascript frameworks.
+- 💞️ Looking to collaborate on web design projects and seeking internships.
 - 🔧 Currently working on The Odin Project, college, and CS50!
 - 📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Web Design, Adobe Certified Associate: Dreamweaver,and Adobe Certified Associate: Photoshop!
 
