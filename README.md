@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a front end web developer that is planning to graduate with an Associate's degree in Computer Information Technology with a concentration in Web Development in December 2023. I love making user friendly websites that focus on responsive web design. I am pretty good at static sites, however my current favorite thing to fiddle with are web apps. I find them so engaging and fun. 
+👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a front end web developer that is planning to graduate with an Associate's degree in Computer Information Technology with a concentration in Web Development in December 2023. I love making user friendly websites that focus on responsive web design. I am great at static sites, however my current favorite thing to fiddle with are web apps. I find them so engaging and fun. 
 
 🌱 Currently, I am working on mastering Javascript so I can move onto learning more about Javascript frameworks, chipping away at CS50, and finishing my degree. 
 
@@ -17,4 +17,4 @@
 <a href="https://www.linkedin.com/in/jmetcalfe18" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked-in" width="40" height="40"/> </a>
 
 # Projects:
-🖥️ Feel free to check out any of my pinned projects below 👇 or any of my repositories! 
+🖥️ Feel free to check out any of my pinned projects below 👇 or any of my repositories!
