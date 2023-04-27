@@ -1,21 +1,20 @@
 # About Me:
-- 👋 Hi, I’m @jamiemetcalfe18 or Jamie!
-- 🖥️ I love to learn new things and push my limits!
-- 🌱 Currently working on mastering Javascript so I can move onto Javascript frameworks.
-- 💞️ Looking to collaborate on web design projects and seeking internships.
-- 🔧 Currently working on The Odin Project, college, and CS50!
-- 📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Web Design, Adobe Certified Associate: Dreamweaver,and Adobe Certified Associate: Photoshop!
+👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a front end web developer that is planning to graduate with an Associate's degree in Computer Information Technology with a concentration in Web Development in December 2023. I love making user friendly websites that focus on responsive web design. I am pretty good at static sites, however my current favorite thing to fiddle with are web apps. I find them so engaging and fun. 
+
+🌱 Currently, I am working on mastering Javascript so I can move onto learning more about Javascript frameworks, chipping away at CS50, and finishing my degree. 
+
+💞️ I am looking to collaborate on open source, web development projects, and seeking internship oppertunities. 
+
+📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Web Design, Adobe Certified Associate: Dreamweaver, and Adobe Certified Associate: Photoshop.
 
 # Skills:
-
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiemetcalfe18)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
 # Socials:
-jamiemetcalfe18/jamiemetcalfe18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes!
+<a href="https://www.linkedin.com/in/jmetcalfe18" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked-in" width="40" height="40"/> </a>
 
-linked-in link: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jmetcalfe18//)
---->
+# Projects:
+🖥️ Feel free to check out any of my pinned projects below 👇 or any of my repositories! 
