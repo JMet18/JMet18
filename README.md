@@ -1,7 +1,7 @@
 # About Me:
 👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a front end web developer that is planning to graduate with an Associate's degree in Computer Information Technology with a concentration in Web Development in December 2023. I love making user friendly websites that focus on responsive web design. I am great at static sites, however my current favorite thing to fiddle with are web apps. I find them so engaging and fun. 
 
-🌱 Currently I am working on mastering Javascript so I can move onto learning more about Javascript frameworks, chipping away at CS50, and finishing my degree. 
+🌱 Currently I am working on learning React.js, chipping away at CS50, and finishing my degree. 
 
 💞️ I am looking to collaborate on open source, web development projects, and seeking internship oppertunities. 
 
