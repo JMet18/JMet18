@@ -18,3 +18,4 @@
 
 # Projects:
 🖥️ Feel free to check out any of my pinned projects below 👇 or any of my repositories!
+Check out my [Replit](https://replit.com/) theme [J's replit theme](https://replit.com/theme/@jmetcalfe18/js-theme)!
