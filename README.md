@@ -1,7 +1,7 @@
 # About Me:
-👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a front end web developer that is planning to graduate with an Associate's degree in Computer Information Technology with a concentration in Web Development in Spring 2023. I love making mobile responsive and user friendly sites that focus on responsive design.
+👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a front end web developer that is planning to graduate with an Associate's degree in Computer Information Technology with a concentration in Web Development in Spring 2024. I love making mobile responsive and user friendly sites that focus on responsive design.
 
-🌱 Currently I am working on learning React.js, chipping away at CS50, and finishing my degree. And learning Java for my summer class!
+🌱 Currently I am working on learning the back end, React.js, chipping away at CS50, and finishing my degree.
 
 💞️ I am looking to collaborate on open source, web development projects, and seeking internship oppertunities. 
 
@@ -18,4 +18,3 @@
 
 # Projects:
 🖥️ Feel free to check out any of my pinned projects below 👇 or any of my repositories!
-Check out my [Replit](https://replit.com/) theme [J's replit theme](https://replit.com/theme/@jmetcalfe18/js-theme)!
