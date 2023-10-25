@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiemetcalfe18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Socials:
-<a href="https://www.linkedin.com/in/jmetcalfe18" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linked-in" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linked-in" width="40" height="40"/> </a>
 
 # Projects:
 🖥️ Feel free to check out any of my pinned projects below 👇 or any of my repositories!
