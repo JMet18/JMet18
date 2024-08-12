@@ -1,11 +1,11 @@
 # About Me:
-👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a web developer! I love making mobile responsive and user friendly sites that focus on responsive design.
+👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a web developer and IT enthusiast! I love making mobile responsive and user friendly sites that focus on responsive design.
 
-🌱 Currently I am working on learning the back end, and React.js.
+🌱 Currently I am working on learning React JS and studying for the CompTIA ITF+.
 
-💞️ I am looking to collaborate on open source, web development projects, and seeking internship oppertunities. 
+💞️ I am looking to collaborate on open source, web development projects, and seeking internship and entry level oppertunities. 
 
-📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Web Design, Adobe Certified Associate: Dreamweaver, and Adobe Certified Associate: Photoshop.
+📋 My Certs: Comptia Cloud Essentials +, Adobe Certified Associate: Web Design, Adobe Certified Associate: Dreamweaver, Testout IT Fundementals Pro, and Adobe Certified Associate: Photoshop.
 
 # Skills:
 <h3 align="left">Languages, Frameworks, and Tools:</h3>
