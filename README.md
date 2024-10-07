@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a web developer and IT enthusiast! I love making mobile responsive and user friendly sites that focus on responsive design.
+👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a wIT enthusiast!
 
 🌱 Currently I am working on learning React JS and studying for the CompTIA A+.
 
