@@ -1,9 +1,7 @@
 # About Me:
-👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am passionate about tech and IT. I love learning and pushing myself. 
+👋 Hi, I’m @jamiemetcalfe18 or Jamie! I am a IT and DevOPS nerd! I enjoy tinkering and fixing things, as well as programming! I mainly code in JavaScript and Python.  
 
-🌱 Currently I am working on learning React JS and studying for the CompTIA A+.
-
-💞️ I am looking to collaborate on open source, web development projects, and seeking internship and entry level oppertunities. 
+🌱 Currently I am working on my portfolio and studying for the CompTIA A+.
 
 📋 My Certs: CompTIA Cloud Essentials +,CompTIA ITF+, Adobe Certified Associate: Web Design, Adobe Certified Associate: Dreamweaver, Testout IT Fundementals Pro, and Adobe Certified Associate: Photoshop.
 
