@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @jamiemetcalfe18 or J! I am a IT and DevOPS nerd! I enjoy tinkering and fixing things, as well as programming! I mainly code in JavaScript and Python.  
+👋 Hi, I’m @Jmet18 or J! I am a IT and DevOPS nerd! I enjoy tinkering and fixing things, as well as programming! I mainly code in JavaScript and Python.  
 
 # Skills:
 <h3 align="left">Languages, Frameworks, and Tools:</h3>
